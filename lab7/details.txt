@@ -1,0 +1,2 @@
+TAD MultiDicționar Ordonat 
+–memorarea  tuturor  perechilor  de  forma  (cheie, valoare), reprezentare sub forma unui  ABC reprezentat înlănțuit cu alocare dinamică.
